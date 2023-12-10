@@ -442,7 +442,8 @@
     "YELLOW_300": "#2780E6"
   },
   "background": {
-    "url": "https://media.discordapp.net/attachments/781260661400797255/1182196714753490996/wallpaper_countdown_2022_camus.jpg?ex=6583d17c&is=65715c7c&hm=e1f2bcd8871cbc295369fcb42b71792d3f8f6510649017761392cf4e930025b6&"
+    "url": "https://media.discordapp.net/attachments/781260661400797255/1182196714753490996/wallpaper_countdown_2022_camus.jpg?ex=6583d17c&is=65715c7c&hm=e1f2bcd8871cbc295369fcb42b71792d3f8f6510649017761392cf4e930025b6&",
+    "overlay_alpha": 120
   },
   "plus": {
     "version": 0,
